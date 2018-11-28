@@ -43,6 +43,7 @@
 				<configuration>
 					<hostname>localhost</hostname>
 					<port>9990</port>
+					
 					<filename>${project.artifactId}.ear</filename>
 				</configuration>
 				<executions>
